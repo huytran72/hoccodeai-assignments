@@ -1,4 +1,5 @@
 # Đề bài
+
 Viết prompt làm những điều sau.
 
 | Input                                          | Output                                                                          |

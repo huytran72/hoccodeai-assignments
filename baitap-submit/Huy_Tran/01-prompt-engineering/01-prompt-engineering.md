@@ -1,4 +1,4 @@
-- Prompt 1
+- Prompt 1: Đưa nội dung bài học vào | Tạo danh sách các câu hỏi trắc nghiệm
   '''
   Create a list of multiple choice questions related to the lessons
   Format:
@@ -10,7 +10,7 @@
   - After all, give me the answers with clearly detail solving for each problem.
     '''
 
-- Prompt 2
+- Prompt 2: Đưa một đoạn văn vào | Phân tích hoặc viết thêm đoạn văn
   '''
   I have a paragraph. Your task is develop the ideas and write longer
   Format:
@@ -22,7 +22,7 @@
 - One reality example from the internet to support the ideas.
   '''
 
-- Prompt 3
+- Prompt 3: Đưa một danh sách các review, bình luận vào | Phân loại thành review tốt và xấu, tổng hợp và đếm số review
   '''
   I have a list of review from the customer. You should do some tasks following:
   - Divide all review in 2 categories: good or bad
@@ -30,12 +30,11 @@
   - Evaluate and summarize the positive and negative comments.
     '''
 
-- Prompt 4
+- Prompt 4: Đưa một đoạn code vào | Tìm bug, viết thêm comment hoặc giải thích code đó
   ''' - The code block cannot execute, help me to find the bugs. - Fix, or rewrite the code, make sure it's clean - Explain each line code and example to support - Tell me the data structure using in the code block
   '''
 
-- Prompt 5
-  '''
+- Prompt 5: Đưa vào địa điểm du lịch | Giới thiệu các điểm tham quan, hoạt động, món ăn nổi tiếng, thời gian tham quan
   I will have a plan vacation in the summer to visit New York city.
   - List to me about 10 famous places in downtown or near the downtown
   - I love cupcakes and burger, so recommend me some store with the best cakes
@@ -44,8 +43,8 @@
   - Where can I buy the souvenirs as a gift for my friends and my family
     '''
 
-- Prompt 6
+- Prompt 6: Đưa một cuốn sách/chương sách ngắn vào | Tóm tắt nội dung cuốn sách và liệt kê các nhân vật xuất hiện
   '''
-  This is the book that I have read recently. I need you summarize the book in 500 words within 2 paragraphs. Also, list all the characters(main and sub) and their roles. Describes detail characteristic and action.
+  This is the book that I have read recently. I need you summarize the chapter 1 in 500 words within 2 paragraphs. Also, list all the characters(main and sub) and their roles. Describes detail characteristic and action.
 
 '''
