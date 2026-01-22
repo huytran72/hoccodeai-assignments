@@ -19,6 +19,5 @@ while True:
         input=user_input
     )
 
-    bot_reply = response.output_text
-    print("Bot:", bot_reply)
+    print("Bot:", response.output_text)
     
